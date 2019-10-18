@@ -20,9 +20,9 @@ public class ArrayProgram2 {
     public static void main(String[] args) {
        
         Scanner keyedInput = new Scanner (System.in);
-        
+        //Array 
         String [ ] friends = new String [5];
-        
+        //output
         System.out.println("Enter the names of five friends:");
         for (int i = 0; i <= 4; i = i + 1)
         {
